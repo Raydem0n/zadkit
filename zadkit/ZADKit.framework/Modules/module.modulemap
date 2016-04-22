@@ -1,0 +1,6 @@
+framework module ZADKit {
+  umbrella header "ZADKit.h"
+
+  export *
+  module * { export * }
+}
